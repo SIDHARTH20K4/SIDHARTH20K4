@@ -93,5 +93,5 @@ I'm always open to collaborating on exciting projects or discussing ideas. Feel 
 
 - **Email**: [sidharth.120504@gmail.com](mailto:sidharth.120504@gmail.com)  
 - **LinkedIn**: [(https://www.linkedin.com/in/sidharth-blockchain-dev/)](#)  
-- **Twitter**: [@YourHandle](#)  
+- **Twitter**: [https://x.com/sidharth_2k04](#)  
  
