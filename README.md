@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Sidharth]  
 ### Blockchain & AI Developer | Innovator | Problem Solver  
 
 Welcome to my GitHub profile! I'm passionate about building decentralized applications (dApps) and leveraging AI to solve real-world problems. Here, you'll find my projects, contributions, and experiments at the intersection of **Blockchain** and **Artificial Intelligence**.  
@@ -31,20 +31,6 @@ Welcome to my GitHub profile! I'm passionate about building decentralized applic
 
 ## 🚀 **Featured Projects**  
 
-### **1. Decentralized AI Marketplace**  
-- **Description**: A blockchain-based platform where users can buy and sell AI models using cryptocurrency.  
-- **Tech Stack**: Solidity, React.js, IPFS, TensorFlow  
-- **Link**: [GitHub Repo](#)  
-
-### **2. AI-Powered Fraud Detection on Blockchain**  
-- **Description**: An AI model integrated with blockchain to detect fraudulent transactions in real-time.  
-- **Tech Stack**: Python, PyTorch, Ethereum, Web3.js  
-- **Link**: [GitHub Repo](#)  
-
-### **3. NFT Generator with AI Art**  
-- **Description**: A tool that generates unique AI art and mints it as NFTs on the Ethereum blockchain.  
-- **Tech Stack**: GANs, Solidity, React.js, OpenSea API  
-- **Link**: [GitHub Repo](#)  
 
 ---
 
@@ -53,22 +39,17 @@ Welcome to my GitHub profile! I'm passionate about building decentralized applic
 - Developed an AI chatbot for customer support deployed on a blockchain network.  
 - Won 1st place in a hackathon for creating a blockchain-based supply chain solution.  
 
----
-
-## 📚 **Blogs & Articles**  
-- [How to Build a Decentralized AI Marketplace](#)  
-- [Integrating AI with Blockchain: Use Cases and Challenges](#)  
-- [Getting Started with Smart Contracts in Solidity](#)  
+--- 
 
 ---
 
 ## 📊 **GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDHARTH20K4&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=10)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHARTH20K4&layout=compact&theme=dark&hide_border=true&langs_count=10)  
 
-![Streak Stats](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)  
+![Streak Stats](https://streak-stats.demolab.com/?user=SIDHARTH20K4&theme=dark&hide_border=true)  
 
 ---
 
@@ -92,21 +73,14 @@ Welcome to my GitHub profile! I'm passionate about building decentralized applic
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
-### **DevOps**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
 ---
 
 ## 📈 **Activity Graph**  
 
-![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&area=true)  
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDHARTH20K4&theme=github-dark&hide_border=true&area=true)  
 
 ---
 
-## 💡 **Fun Fact**  
-I once trained an AI model to generate Shakespearean-style poetry and deployed it on a blockchain!  
 
 ---
 
@@ -117,7 +91,7 @@ I once trained an AI model to generate Shakespearean-style poetry and deployed i
 ## 📫 **Let's Connect!**  
 I'm always open to collaborating on exciting projects or discussing ideas. Feel free to reach out!  
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Email**: [sidharth.120504@gmail.com](mailto:sidharth.120504@gmail.com)  
+- **LinkedIn**: [(https://www.linkedin.com/in/sidharth-blockchain-dev/)](#)  
 - **Twitter**: [@YourHandle](#)  
-- **Portfolio**: [Your Portfolio Website](#)  
+ 
