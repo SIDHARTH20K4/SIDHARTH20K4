@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building decentralized applic
 ## 🛠️ **Skills & Expertise**  
 
 ### **Blockchain Development**  
-- **Smart Contracts**: Solidity, Rust, Vyper  
+- **Smart Contracts**: Solidity, Rust  
 - **Blockchain Platforms**: Ethereum, Binance Smart Chain, Polkadot, Solana, Hyperledger  
 - **Tools**: Truffle, Hardhat, Remix, Ganache, Web3.js, Ethers.js  
 - **Token Standards**: ERC-20, ERC-721, ERC-1155  
