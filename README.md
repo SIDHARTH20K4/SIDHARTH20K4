@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidharth!!
+# 👋 Hi, I'm Sidharth !!
 ### Blockchain & AI Developer | Innovator | Problem Solver  
 
 Welcome to my GitHub profile! I'm passionate about building decentralized applications (dApps) and leveraging AI to solve real-world problems. Here, you'll find my projects, contributions, and experiments at the intersection of **Blockchain** and **Artificial Intelligence**.  
