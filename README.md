@@ -1,65 +1,78 @@
-# 👋 Hi, I'm Sidharth
-### Web3 & AI Developer | Open Source Contributor | Life-long Learner
+# 👋 Hi, I'm Sidharth !!
+### Blockchain & AI Developer | Problem Solver | Builder  
 
-Welcome to my GitHub! I'm a developer who loves building things in **Web3**, exploring **AI**, and growing by solving real problems. I believe in learning by doing and building in public.
-
----
-
-## ⚡ What I Do
-
-- 🧠 **Blockchain Development**
-  - Building smart contracts (Solana, Ethereum)
-  - Working with Anchor, Foundry, and Ethers.js
-  - Experience with DeFi tools and gas optimization
-
-- 🤖 **AI Projects**
-  - Built a food classification + recipe generator using image-to-text and text-to-image AI
-  - Exploring generative AI (e.g. Ponke cartoon generator with Telegram bot)
-
-- 💼 **Internships & Clients**
-  - Intern at **Babyliger** – a Web3 gaming startup
-  - Delivered AI + Web3 projects as a freelancer
-
-- 🧪 **Experimenting with**
-  - AI agents
-  - Gasless transactions
-  - Uniswap integration
-  - Frontend animations & addictive UI
+Welcome to my GitHub profile! I'm passionate about building decentralized applications, experimenting with AI, and shipping cool projects that solve real-world problems. Whether it's developing smart contracts, building AI agents, or working on full-stack apps — I love to build and learn in public.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Skills & Tech Stack
 
-- **Solana Swap dApp**  
-  Built a production-ready token swap on Solana using Anchor.
+### 🚀 Blockchain
+- **Smart Contracts**: Solidity, Rust (Anchor)
+- **Chains**: Ethereum, Solana
+- **Tools**: Hardhat, Foundry, Thirdweb, Phantom, Anchor, Wagmi, RainbowKit
+- **dApp Dev**: React, Next.js, Tailwind, Wallet integrations, Gasless transactions
+- **Other**: IPFS, Metaplex, Token Standards (ERC20, SPL), Chainlink, Uniswap
 
-- **Ponke AI Generator**  
-  A Telegram bot that generates consistent cartoon images of a monkey character called Ponke based on prompts.
+### 🧠 AI / ML
+- **AI Tools**: OpenAI, HuggingFace, LangChain
+- **Models**: Text-to-Image, Text-to-Text, Image-to-Text
+- **Python Frameworks**: Flask, FastAPI
+- **ML**: Scikit-learn, TensorFlow, PyTorch
+- **Data**: Pandas, NumPy, Matplotlib
 
-- **AI Food Classifier & Recipe Recommender**  
-  Classifies food from images and suggests recipes using AI (image-to-text + NLP).
-
-- **Color Betting Game** (Hackathon)  
-  Web3 game where users bet on colors and win if it matches the outcome. Integrated DeFi & gasless logic.
+### 💻 Full Stack
+- **Frontend**: React.js, Next.js, TailwindCSS, Expo
+- **Backend**: Node.js, Express.js, Flask
+- **Database**: MongoDB, Firebase
+- **DevOps**: Docker, GitHub Actions
 
 ---
 
-## 🧑‍💻 Stack
+## 🚧 Projects
 
-- **Languages**: JavaScript, Python, Rust, Solidity  
-- **Web3**: Solana, Ethereum, Anchor, Foundry, Hardhat, Ethers.js  
-- **AI/ML**: Hugging Face, OpenAI, TensorFlow basics  
-- **Frontend**: React, Tailwind, Expo (React Native)  
-- **Backend**: Flask, Node.js  
-- **Tools**: Git, Linux, Docker (learning), Firebase
+- 🔗 **ColorBet**: A Web3 game where users bet on a color and win based on randomized outcomes. Features gasless transactions & addictive animations.
+- 🍳 **AI Recipe Generator**: A Flask-based app that suggests recipes based on food images and descriptions using AI models (text-to-text, image-to-text).
+- 🎨 **Ponke Series**: An AI image generation system for a character named Ponke across multiple scenarios — integrated into a Telegram bot.
+- 📦 **Crowdfunding dApp**: Built on Solana Devnet — supports wallet integrations, donations, and campaign creation.
+- 💬 **RainbowKit OSS Contribution**: Worked on improving wallet UI in Telegram mini-app WebView.
+
+---
+
+## 🌟 Achievements
+- 🏆 Intern @ Babyliger, building a Web3 game
+- 🤝 First freelancing client delivered an AI-based food classifier
+- 💡 Open source contributor to RainbowKit (Web3 UI library)
+- ⚙️ Built production-grade smart contracts with Foundry & Anchor
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDHARTH20K4&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHARTH20K4&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SIDHARTH20K4&theme=dark&hide_border=true)
+
+---
+
+## 🧰 Tools & Languages
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
 ## 📫 Contact
 
-- Twitter: [@sidharth_2k04](https://x.com/sidharth_2k04)
-- Email: [sidharth.120504@gmail.com](mailto:sidharth.120504@gmail.com)
+- 📧 **Email**: [sidharth.120504@gmail.com](mailto:sidharth.120504@gmail.com)
+- 💼 **LinkedIn**: [sidharth-blockchain-dev](https://www.linkedin.com/in/sidharth-blockchain-dev/)
+- 🐦 **Twitter**: [sidharth_2k04](https://x.com/sidharth_2k04)
 
 ---
 
-✨ Building one step at a time, enjoying the process, and making cool stuff along the way.
+⭐️ Star my repos if they helped you or sparked an idea!
