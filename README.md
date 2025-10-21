@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building decentralized applic
 
 ## 🚧 Projects
 
-- 🔗 **ColorBet**: A Web3 game where users bet on a color and win based on randomized outcomes. Features gasless transactions & addictive animations.
+- 🔗 **ColorBet**: A Web3 game where users bet on a color and win based on randomized outcomes. Features gasless transactions & addictive animations
 - 🍳 **AI Recipe Generator**: A Flask-based app that suggests recipes based on food images and descriptions using AI models (text-to-text, image-to-text).
 - 🎨 **Ponke Series**: An AI image generation system for a character named Ponke across multiple scenarios — integrated into a Telegram bot.
 - 📦 **Crowdfunding dApp**: Built on Solana Devnet — supports wallet integrations, donations, and campaign creation.
