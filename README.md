@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sidharth !!
 ### Blockchain & AI Developer | Problem Solver | Builder  
 
-Welcome to my GitHub profile! I'm passionate about building decentralized applications, experimenting with AI, and shipping cool projects that solve real-world problems. Whether it's developing smart contracts, building AI agents, or working on full-stack apps — I love to build and learn in public
+Welcome to my GitHub profile! I'm passionate about building decentralized applications, experimenting with AI, and shipping cool projects that solve real-world problems. Whether it's developing smart contracts, building AI agents, or working on full-stack apps — I love to build and learn in public.
 
 ---
 
