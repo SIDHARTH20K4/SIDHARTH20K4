@@ -1,9 +1,11 @@
-# Sidharth
-Blockchain developer working across Bitcoin and Solana. Final-year CS student.
-Twitter: [@sidharth_2k04](https://x.com/sidharth_2k04)
-LinkedIn: [sidharth-blockchain-dev](https://www.linkedin.com/in/sidharth-blockchain-dev/)
-Email: sidharth.120504@gmail.com
----
+# Hey, I'm Sidharth 👋
+
+Blockchain developer building across Bitcoin and Solana — final-year CS student chasing protocol-level work.
+
+[![Twitter](https://img.shields.io/badge/-@sidharth__2k04-000000?style=flat&logo=x&logoColor=white)](https://x.com/sidharth_2k04)
+[![LinkedIn](https://img.shields.io/badge/-sidharth--blockchain--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-blockchain-dev/)
+[![Email](https://img.shields.io/badge/-sidharth.120504@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sidharth.120504@gmail.com)
+
 ## Bitcoin
 Long-term goal is Bitcoin protocol development. Other work is a bridge while building toward this.
 - Merged [ddust #46](https://github.com/bip451/ddust/pull/46), fixing a witness-parsing bug where the sighash check always read the empty OP_0 item for P2WSH and P2SH-P2WSH multisig inputs, causing valid multisig transactions to fail validation.
@@ -24,6 +26,3 @@ Long-term goal is Bitcoin protocol development. Other work is a bridge while bui
 - Freelance client work, including a booking system rebuild for a bowling arcade business.
 ## Stack
 Solidity, Rust (Anchor), Ethereum, Solana, Foundry, Hardhat, Anchor, wagmi, viem, React, Next.js, TypeScript, Python
-## GitHub stats
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SIDHARTH20K4&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SIDHARTH20K4&layout=compact&theme=dark&hide_border=true)
